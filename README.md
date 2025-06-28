@@ -1,6 +1,6 @@
 ## Solar Farm Semantic Segmentation
 
-This project applies a U-Net convolutional neural network (CNN) to detect and segment solar farms in aerial imagery. It's the final practicum project for the MSDS program at Regis University, developed by Reed Johnson.
+This project applies a U-Net convolutional neural network (CNN) to detect and segment solar farms in aerial imagery. It's the final practicum project for the MSDS program at Regis University, developed by Reed Johnson ([LinkedIn](https://www.linkedin.com/in/sreedjohnson)).
 
 ## Project Overview
 
@@ -103,8 +103,10 @@ Use 03_practicum_save_doublets.ipynb to:
 
 ## License
 
-For academic and research use only.  
-(c) 2025 Reed Johnson| Geology | Data Science
+Copyright © 2025 Reed Johnson.  
+This code and related assets are provided solely for academic and non-commercial research purposes. 
+Any commercial use is strictly prohibited without prior written consent.
+
 
 ## Results Summary
 
